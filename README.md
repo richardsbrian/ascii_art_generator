@@ -3,6 +3,8 @@
 
 This project is a Flask-based web application that converts uploaded images into ASCII art. Users can upload an image, select the ASCII density, and customize the output width. The app also features a dynamic animated background and a modern user interface.
 
+![ascii](https://github.com/user-attachments/assets/855b5a6c-c288-4098-9aed-8736e7d00e77)
+
 ## Features
 
 - Upload images and convert them to ASCII art.
